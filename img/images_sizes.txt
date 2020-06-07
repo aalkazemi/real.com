@@ -1,0 +1,8 @@
+Images sizes as per pages
+- home page
+	* folder img/home/carousel -------> image size = 1440x362 px
+	* folder img/home/sub-carousel ---> image size = 1600x721 px
+	* folder img/home/adver-image ----> image size = 1110x295 px
+
+- product page
+	* folder img/prodcut/card/* ------> image size = 708x472 px
